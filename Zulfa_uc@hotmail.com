@@ -1,5 +1,5 @@
-# Installation
-
+# Installation Zulfa_uc@hotmail.com 
+# Start the Ssh-keygen 
 You can simply `ember install` the dependency like normal:
 
 ```sh
@@ -47,3 +47,4 @@ We add the following files to your project:
 - [`tsconfig.json`](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
 - `types/<app name>/index.d.ts` – the location for any global type declarations you need to write for you own application; see [**Using TS Effectively: Global types for your package**](./docs/ts-guide/using-ts-effectively#global-types-for-your-package) for information on its default contents and how to use it effectively
 - `app/config/environment.d.ts` – a basic set of types defined for the contents of the `config/environment.js` file in your app; see [Environment and configuration typings](#environment-and-configuration-typings) for details
+Zulfa_uc@hotmail.com 
